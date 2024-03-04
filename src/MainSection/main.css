@@ -1,0 +1,8 @@
+.main{
+    display:flex;
+    gap:0.5rem;
+    flex-direction:row;
+    padding:0 3rem;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
